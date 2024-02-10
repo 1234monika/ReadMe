@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1234monika
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on senior software developers
-- 📫 How to reach me you can mail me my mail id is monikarane178@gmail.com
+- 💞️ I’m looking to collaborate with a senior software developers
+- 📫 you can mail me my mail id is monikarane178@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
